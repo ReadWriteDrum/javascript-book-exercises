@@ -1,0 +1,6 @@
+1. substring          constructor: string           method type: instance
+2. create             constructor: object           method type: static               
+3. fromCharCode       constructor: string           method type: static       
+4. slice              constructor: array, string,   method type: instance      
+5. toString           constructor: string, object   method type: instance 
+                                   array, number                               
