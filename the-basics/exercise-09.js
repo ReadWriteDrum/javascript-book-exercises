@@ -3,9 +3,9 @@
 Name	          Animal
 asta	          dog
 butterscotch	  cat
-pudding	        cat
-neptune	        fish
-darwin	        lizard */
+pudding	          cat
+neptune	          fish
+darwin	          lizard */
 
 let pets = { 
   asta:         'dog',
