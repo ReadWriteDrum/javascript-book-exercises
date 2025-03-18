@@ -1,3 +1,4 @@
+
 // What happens when you run the following program? Why do we get that result?
 
 {
@@ -6,5 +7,7 @@
 
 console.log(foo);
 
-/* A reference error would occur saying foo is not declared. Since foo is declared 
-inside the block, it only has block scope and can't be referenced outside the block. */
+/*
+  A reference error would occur saying foo is not declared. Since foo is declared 
+	inside the block, it only has block scope and can't be referenced outside the block. 
+*/  
