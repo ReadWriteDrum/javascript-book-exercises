@@ -7,6 +7,8 @@ const FOO = 'bar';
 
 console.log(FOO);
 
-/* Even though this program is using two constants with the same variable name, it will not
-produce an error because line 5 is within block scope and hidden from line 3 which is in 
-global scope. They are treated as separate variables. */
+/* 
+  Even though this program is using two constants with the same variable name, it will not
+  produce an error because line 5 is within block scope and hidden from line 3 which is in 
+  global scope. They are treated as separate variables.
+*/  
